@@ -1,4 +1,8 @@
+#my-info {
+  text-align: center;
+}
 #contact {
   display: flex;
-  justify-content: space-between
+  justify-content: space-between;
+  margin: auto 15%;
 }
