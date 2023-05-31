@@ -6,6 +6,11 @@ h1, h2, h3 {
 }
 a {
   color: #1A117D;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #061752;
 }
 body {
   margin-left: 5vw;
